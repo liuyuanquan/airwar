@@ -1,0 +1,23 @@
+{
+   "alert_description": {
+      "message": "A suspicious login form was detected in this browser tab. Be sure that this is the website you intended to visit and not an imposter. Check the domain name and look out for invalid security certificates. Proceed with caution!"
+   },
+   "alert_title": {
+      "message": "Suspicious login form detected"
+   },
+   "block_description": {
+      "message": "A malicious request was created by an element within this browser tab and has been blocked. No further action is required, you may safely close this tab or navigate to a new site."
+   },
+   "block_title": {
+      "message": "Malicious request blocked"
+   },
+   "contact_info": {
+      "message": "If you have questions or would like to report a problem, please contact epp-project@didichuxing.com"
+   },
+   "description": {
+      "message": "Helps you browse the web safely. Created by the Didi Security Team."
+   },
+   "name": {
+      "message": "DiDi Web Assistant"
+   }
+}

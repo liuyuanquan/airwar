@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "URI.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/icon128.png",
+         "16": "images/icon16.png",
+         "32": "images/icon32.png",
+         "64": "images/icon64.png"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2OP/QZgszCN6p/XEVGMLaMGmPXiDvOG5QDxeUG5jAX6TLmYf+j0gSotD8QxqdzyQE5Tn/X0dNWFFAekirFqDMVTk0lRbzxHfFy+wbxibYfWiX0A4tU+bMV2Eaean5FAdU5TZ2+jPkGaMPMDrbS9NUS7eGf+nN1ahjCd2KQIJ2Q7w1RN32I19BL2JAs6jsf0Bq/UzYfmyw69jpQM55XSxbc4t1yXkWTGQf1InqQ3Uo08jzRdX0Dvr3rhwbWFARq6YC1KP0axH93b8XuWmhReQnpIUWFuRGM0FkWgGST7c0V7urRgufWnkCkTkgq8xKj0a1MdrgalOvEaDu8M8ST7oYwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "alarms", "downloads", "nativeMessaging", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2",
+   "web_accessible_resources": [ "block.html" ]
+}

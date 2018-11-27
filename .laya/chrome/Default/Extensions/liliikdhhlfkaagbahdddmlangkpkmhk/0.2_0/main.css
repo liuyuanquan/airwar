@@ -1,0 +1,53 @@
+html *
+{
+    font-family: Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif !important;
+}
+body {
+    background-color: #ff9900;
+    margin: 0 0 100px;
+}
+.alert-title {
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+.alert-description {
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+.alert-outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.alert-middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+.alert-inner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.banner {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 65px;
+    width: 100%;
+    background-color: #fff;
+}
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+}
+.footer-text {
+    font-size: 14px;
+    text-align: center;
+    color: #ffd291;
+}
