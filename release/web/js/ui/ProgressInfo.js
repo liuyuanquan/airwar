@@ -1,0 +1,1 @@
+var ProgressInfo=function(r){function o(){GameInfo.super(this)}Laya.class(o,"ProgressInfo",r);return o.prototype.update=function(r){this.progressBar.value=r},o}(ui.ProgressInfoUI);
