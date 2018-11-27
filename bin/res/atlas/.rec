@@ -1,4 +1,5 @@
 D .
+D template
 D war
 P E4078869 blank.png
 P C55A0DA5 btn_pause.png
@@ -33,3 +34,4 @@ P 44A2D9AC hero_fly2.png
 P 7CF51DF3 label.png
 P D8B68072 ufo1.png
 P 266CE476 ufo2.png
+D template/Progress

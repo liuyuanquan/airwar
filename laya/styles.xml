@@ -1,0 +1,5 @@
+<res>
+   <item name="template/Progress" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="template" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="template/Progress/loading bar_icloud.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
